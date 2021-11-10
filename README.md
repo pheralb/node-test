@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🐢 Node Exercises:
 
 - Requirements:
@@ -32,6 +31,3 @@ npm run start
 6. Create a script that, given the address of a file, counts the number of words in it (using [fs](https://nodejs.org/api/fs.html)).
 
 7. Create a script that generates a new file with each word on a new line, given a file (using [fs](https://nodejs.org/api/fs.html)).
-=======
-## 🐢 Node Exercises
->>>>>>> 944b512482188d393864c6d75a6b711230887828
